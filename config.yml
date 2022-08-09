@@ -1,0 +1,4 @@
+baseURL: ""
+languageCode: en-us
+title: Demo for Hugo
+theme: PaperMod
